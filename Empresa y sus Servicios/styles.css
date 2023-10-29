@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4bcfcf;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo del encabezado */
+header {
+    background-color: #6aaced;
+    color: rgb(9, 9, 9);
+    text-align: center;
+    padding: 20px;
+}
+header img {
+    max-width: 500px; /* Ajusta el tamaño de tu logotipo */
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Estilo de las secciones */
+section {
+    padding: 40px 0;
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
